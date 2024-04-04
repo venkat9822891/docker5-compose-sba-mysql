@@ -10,8 +10,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 
-import in.ashokit.binding.Book;
-import in.ashokit.repository.BookRepository;
+import in.venkat.binding.Book;
+import in.venkat.repository.BookRepository;
 
 @Controller
 public class BookController {
